@@ -4,4 +4,4 @@ Este repositorio contiene archivos utilizados para realizar prácticas con Git y
 
 ## Aportación de Annie
 
-Se agregó este archivo README.md para incorporar documentación inicial al repositorio como parte de la práctica de colaboración mediante Fork y Pull Request.
+Se agregó este archivo README.md para incorporar documentación inicial al repositorio como parte de la práctica de colaboración mediante Fork y Pull Request. Ultimo paso de la practica
